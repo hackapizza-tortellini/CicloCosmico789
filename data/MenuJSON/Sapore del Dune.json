@@ -1,0 +1,214 @@
+{
+  "name": "Sapore del Dune",
+  "chef": "Alessandra Quanti",
+  "planet": "Tatooine",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "II"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "I"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    },
+    {
+      "name": "Quantica",
+      "acronym": "Q",
+      "level": "13"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "II"
+    },
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "II"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Sinfonia Quantistica delle Stelle",
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Lattuga Namecciana",
+        "Radici di Singolarit\u00e0",
+        "Fibra di Sintetex",
+        "Carne di Balena spaziale",
+        "Teste di Idra",
+        "Nettare di Sirena",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Sinfonia Quantistica dell'Universo",
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Foglie di Nebulosa",
+        "Lattuga Namecciana",
+        "Teste di Idra",
+        "Carne di Mucca",
+        "Farina di Nettuno",
+        "Riso di Cassandra",
+        "Fusilli del Vento",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Evanescenza Quantica",
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Radici di Singolarit\u00e0",
+        "Lattuga Namecciana",
+        "Baccacedro",
+        "Granuli di Nebbia Arcobaleno",
+        "Plasma Vitale",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Affumicatura a Stratificazione Quantica",
+        "Saltare in Padella Classica"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori Sublimi",
+      "ingredients": [
+        "Frammenti di Supernova",
+        "Baccacedro",
+        "Foglie di Nebulosa",
+        "Radici di Singolarit\u00e0",
+        "Amido di Stellarion",
+        "Fusilli del Vento"
+      ],
+      "techniques": [
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Marinatura Temporale Sincronizzata",
+        "Impasto Gravitazionale Vorticoso"
+      ]
+    },
+    {
+      "name": "Galassia di Sapore Quantico",
+      "ingredients": [
+        "Polvere di Stelle",
+        "Alghe Bioluminescenti",
+        "Colonia di Mycoflora",
+        "Carne di Drago",
+        "Teste di Idra",
+        "Plasma Vitale",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Impasto Gravitazionale Vorticoso"
+      ]
+    },
+    {
+      "name": "Interstellare Risveglio di Kraken",
+      "ingredients": [
+        "Polvere di Pulsar",
+        "Liane di Plasmodio",
+        "Radici di Singolarit\u00e0",
+        "Carne di Kraken",
+        "Amido di Stellarion",
+        "Riso di Cassandra",
+        "Plasma Vitale",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Affumicatura a Stratificazione Quantica",
+        "Bollitura Infrasonica Armonizzata"
+      ]
+    },
+    {
+      "name": "Sinfonia Temporale delle Profondit\u00e0 Infrasoniche",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Carne di Kraken",
+        "Carne di Balena spaziale",
+        "Funghi Orbitali",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Saltare in Padella Classica",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa"
+      ]
+    },
+    {
+      "name": "Pioggia di Dimensioni Galattiche",
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Lattuga Namecciana",
+        "Biscotti della Galassia",
+        "Pane degli Abissi",
+        "Nettare di Sirena",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Affumicatura a Stratificazione Quantica",
+        "Fermentazione Quantico Biometrica"
+      ]
+    },
+    {
+      "name": "Ode Cosmica di Terra e Stelle",
+      "ingredients": [
+        "Polvere di Stelle",
+        "Alghe Bioluminescenti",
+        "Teste di Idra",
+        "Fibra di Sintetex",
+        "Carne di Balena spaziale",
+        "Spaghi del Sole",
+        "Nettare di Sirena",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Sinfonia Galattica",
+      "ingredients": [
+        "Cristalli di Nebulite",
+        "Colonia di Mycoflora",
+        "Teste di Idra",
+        "Carne di Xenodonte",
+        "Carne di Drago",
+        "Pane degli Abissi",
+        "Funghi dell\u2019Etere"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    }
+  ]
+}

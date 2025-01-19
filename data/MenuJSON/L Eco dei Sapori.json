@@ -1,0 +1,225 @@
+{
+  "name": "Restaurant",
+  "chef": "Aurora Vessanti",
+  "planet": "Ego",
+  "licenses": [
+    {
+      "name": "psionica",
+      "acronym": "P",
+      "level": "III"
+    },
+    {
+      "name": "quantica",
+      "acronym": "Q",
+      "level": "IV"
+    },
+    {
+      "name": "temporale",
+      "acronym": "t",
+      "level": "II"
+    },
+    {
+      "name": "antimateria",
+      "acronym": "e+",
+      "level": "I"
+    },
+    {
+      "name": "magnetica",
+      "acronym": "Mx",
+      "level": "I"
+    },
+    {
+      "name": "luce",
+      "acronym": "c",
+      "level": "II"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Sinfonia di Memorie",
+      "ingredients": [
+        "Pane di Luce",
+        "Spore Quantiche",
+        "Essenza di Tachioni",
+        "Farina di Nettuno",
+        "Cristalli di Memoria",
+        "Biscotti della Galassia",
+        "Zucchero cosmico",
+        "Scaglie di stelle"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Sferificazione tramite Matrici Biofotiche",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Galassia Infinita: Viaggio tra Memorie e Stelle",
+      "ingredients": [
+        "Pane di Luce",
+        "Spore Quantiche",
+        "Essenza di Tachioni",
+        "Farina di Nettuno",
+        "Cristalli di Memoria",
+        "Biscotti della Galassia",
+        "Zucchero cosmico",
+        "Scaglie di stelle"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Sferificazione tramite Matrici Biofotiche",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Eterna Sinfonia del Cosmo",
+      "ingredients": [
+        "Carne di mucca",
+        "Nettare di Sirena",
+        "Teste di idra",
+        "Alghe Bioluminescenti",
+        "Biscotti della Galassia",
+        "Shard di Materia Oscura",
+        "Essenza di Speziaria",
+        "Polvere di Pulsar"
+      ],
+      "techniques": [
+        "Marinatura Sotto Zero a Polarit\u00e0 Inversa",
+        "Cottura Idrodinamica Autoregolante",
+        "Decostruzione Magnetica Risonante",
+        "Bollitura Infrasonica Armonizzata",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica di Aurora",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Pane di Luce",
+        "Granuli di Nebbia Arcobaleno",
+        "Erba Pipa",
+        "Polvere di Pulsar"
+      ],
+      "techniques": [
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Incisione Elettromagnetica Plasmica"
+      ]
+    },
+    {
+      "name": "Galaxia Gustativa",
+      "ingredients": [
+        "Amido di Stellarion",
+        "Shard di Materia Oscura",
+        "Funghi Orbitali",
+        "Granuli di Nebbia Arcobaleno",
+        "Baccacedro",
+        "Funghi Orbitali"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Fermentazione Quantico Biometrica",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Crescendo Cosmico",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Gnocchi del Crepuscolo",
+        "Carne di Xenodonte",
+        "Polvere di Pulsar",
+        "Radici di Singolarit\u00e0",
+        "Colonia di Mycoflora",
+        "Spore Quantiche"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Simfonia Celeste di Aurora",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Xenodonte",
+        "Amido di Stellarion",
+        "Colonia di Mycoflora",
+        "Alghe Bioluminescenti",
+        "Polvere di Pulsar",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Decostruzione Magnetica Risonante",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Portale del Cosmo: Sinfonia di Sapori e Tempi",
+      "ingredients": [
+        "Pane degli Abissi",
+        "Muffa Lunare",
+        "Fibra di Sintetex",
+        "Radici di Gravit\u00e0",
+        "Colonia di Mycoflora",
+        "Shard di Prisma Stellare",
+        "Baccacedro",
+        "Nduja Fritta Tanto",
+        "Biscotti della Galassia",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Verso l'Inedito Oltre",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Drago",
+        "Carne di Mucca",
+        "Teste di Idra",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Incisione Elettromagnetica Plasmica"
+      ]
+    },
+    {
+      "name": "Sinfonia di Galassie Perdute",
+      "ingredients": [
+        "Radici di Singolarit\u00e0",
+        "Lattuga Namecciana",
+        "Muffa Lunare",
+        "Baccacedro",
+        "Spezie Melange",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Incisione Elettromagnetica Plasmica",
+        "Sferificazione tramite Matrici Biofotiche",
+        "Stratificazione Quantica"
+      ]
+    },
+    {
+      "name": "Sinfonia degli Elementi Eterni",
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Radici di Singolarit\u00e0",
+        "Foglie di Mandragora",
+        "Uova di Fenice",
+        "Carne di Kraken",
+        "Farina di Nettuno",
+        "Pane di Luce",
+        "Lacrime di Andromeda"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Bollitura termografica a rotazione veloce",
+        "Fermentazione quantico biometrica",
+        "Sferificazione filamentare a molecole vibrazionali"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "name": "L'Essenza del Multiverso",
+  "chef": "Matteo Nexus",
+  "planet": "Pandora",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "3"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "2"
+    },
+    {
+      "name": "Quantica",
+      "acronym": "Q",
+      "level": "2"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "1"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "1"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "1"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "1"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Viaggio Gastronomico tra le Stelle",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Balena Spaziale",
+        "Radici di Singolarit\u00e0",
+        "Vero Ghiaccio",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Incisione Elettromagnetica Plasmica",
+        "Sinfonia del Cosmo Rigenerante",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura Sottovuoto Bioma Sintetico",
+        "Sale Temporale",
+        "Big Bang Microcosmico",
+        "Cristalli di Memoria",
+        "Uova di Fenice",
+        "Biscotti della Galassia",
+        "Lacrime di Unicorno",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Delizia Astrale all'Essenza del Multiverso",
+      "ingredients": [
+        "Radici di Singolarit\u00e0",
+        "Carne di Kraken",
+        "Foglie di Nebulosa",
+        "Granuli di Nebbia Arcobaleno",
+        "Lacrime di Andromeda",
+        "Uova di Fenice",
+        "Vero Ghiaccio",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Tecnica di Sinergia Elettro-Osmotica Programmabile",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Amalgamazione Sintetica Molecolare",
+        "Alghe Bioluminescenti",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Melodia del Multiverso Parallelo",
+      "ingredients": [
+        "Carne di Mucca",
+        "Uova di Fenice",
+        "Fusilli del Vento",
+        "Nettare di Sirena",
+        "Nduja Fritta Tanto",
+        "Amido di Stellarion",
+        "Pane degli Abissi",
+        "Teste di Idra",
+        "Polvere di Crononite"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Incisione Elettromagnetica Plasmica",
+        "Vapore con Flusso di Particelle Isoarmoniche",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Portale Interdimensionale di Sapori",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Carne di Kraken",
+        "Foglie di Mandragora",
+        "Shard di Materia Oscura",
+        "Riso di Cassandra",
+        "Lacrime di Andromeda",
+        "Sferificazione con Campi Magnetici Entropici"
+      ],
+      "techniques": [
+        "Surgelamento Antimaterico a Risonanza Inversa",
+        "Sferificazione con Campi Magnetici Entropici",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Ode al Crepuscolo del Multiverso",
+      "ingredients": [
+        "Carne di Mucca",
+        "Gnocchi del Crepuscolo",
+        "Pane degli Abissi",
+        "Cristalli di Memoria",
+        "Lacrime di Unicorno",
+        "Essenza di Vuoto",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Grigliatura Plasma Sintetico Risonante",
+        "Affumicatura Polarizzata a Freddo Iperbarico",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Sinfonia Interstellare di Fusilli del Vento con Nettare di Sirena",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Teste di Idra",
+        "Radici di Gravit\u00e0",
+        "Foglie di Mandragora",
+        "Nettare di Sirena",
+        "Polvere di Pulsar"
+      ],
+      "techniques": [
+        "Congelazione Iperdimensionalmente Stratificata",
+        "Marinatura Temporale Sincronizzata",
+        "Incisione Elettromagnetica Plasmica",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "La Voce del Vento",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Polvere di Pulsar",
+        "Foglie di Nebulosa",
+        "Funghi dell\u2019Etere",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Nebulose a Strati",
+      "ingredients": [
+        "Farina di Nettuno",
+        "Carne di Mucca",
+        "Carne di Kraken",
+        "Colonia di Mycoflora",
+        "Radici di Gravit\u00e0",
+        "Baccacedro",
+        "Shard di Prisma Stellare",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Essenza di Speziaria",
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Padella via Realt\u00e0 Energetiche Parallele",
+        "Sferificazione con Campi Magnetici Entropici",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    },
+    {
+      "name": "Sinfonia Aromatica del Multiverso",
+      "ingredients": [
+        "Vegetali Sublimati",
+        "Lattuga Namecciana",
+        "Foglie di Nebulosa",
+        "Cristalli di Memoria",
+        "Spore Quantiche",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Sinfonia del Cosmo Rigenerante"
+      ]
+    }
+  ]
+}

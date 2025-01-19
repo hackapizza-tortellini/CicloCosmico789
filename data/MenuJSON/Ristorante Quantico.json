@@ -1,0 +1,214 @@
+{
+  "name": "Restaurant",
+  "chef": "Alessandra Temporini",
+  "planet": "Pandora",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "IV"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "III"
+    },
+    {
+      "name": "Quantistica",
+      "acronym": "Q",
+      "level": "11"
+    },
+    {
+      "name": "Gravitazionale",
+      "acronym": "G",
+      "level": "II"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "I"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "I"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "I"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Echi del Mare Eterno",
+      "ingredients": [
+        "Carne di Kraken",
+        "Plasma Vitale",
+        "Teste di Idra",
+        "Salsa Szechuan interdimensionale",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Odissea Temporale",
+      "ingredients": [
+        "Carne di Drago",
+        "Carne di Mucca",
+        "Foglie di Mandragora",
+        "Lacrime di Unicorno",
+        "Teste di Idra",
+        "Essenza di Tachioni",
+        "Vero Ghiaccio"
+      ],
+      "techniques": [
+        "Reazioni d'Antimateria Diluite",
+        "Flusso di Particelle Isoarmoniche",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Affumicatura Temporale Risonante"
+      ]
+    },
+    {
+      "name": "Rintocchi del Cosmo",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Radici di Gravit\u00e0",
+        "Shard di Materia Oscura",
+        "Funghi dell\u2019Etere",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Armonia Cosmica alla Tavola d'Oro",
+      "ingredients": [
+        "Muffa Lunare",
+        "Polvere di Crononite",
+        "Baccacedro",
+        "Pane degli Abissi",
+        "Sale Temporale",
+        "polvere di luce"
+      ],
+      "techniques": [
+        "Campi Magnetici Entropici",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Luminante"
+      ]
+    },
+    {
+      "name": "Echi del Cosmo",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Carne di Mucca",
+        "Carne di Kraken",
+        "Farina di Nettuno",
+        "Lacrime di Andromeda",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Incisione Elettromagnetica Plasmica",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Ethereal Temporal Elixir",
+      "ingredients": [
+        "Pane di Luce",
+        "Carne di Balena Spaziale",
+        "Spaghi del Sole",
+        "Baccacedro",
+        "Colonie di Mycoflora",
+        "Funghi dell\u2019Etere",
+        "Polvere di Crononite",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Impasto a Campi Magnetici Dualistici"
+      ]
+    },
+    {
+      "name": "Sinfonia Celestiale di Gnocchi del Crepuscolo",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Essenza di Speziaria",
+        "Nebbia Arcobaleno",
+        "Farina di Nettuno",
+        "Shard di Materia Oscura",
+        "Foglie di Mandragora"
+      ],
+      "techniques": [
+        "Impasto a Campi Magnetici Dualistici",
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Affumicatura Temporale Risonante",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Eclissi Armonica di Sapori",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Muffa Lunare",
+        "Granuli di Nebbia Arcobaleno",
+        "Carne di Xenodonte",
+        "Foglie di Mandragora",
+        "Riso di Cassandra",
+        "Salsa Szechuan interdimensionale"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Marinatura Psionica",
+        "Miniaturizzazione",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Sferificazione Filamentare a Molecole Vibrazionali"
+      ]
+    },
+    {
+      "name": "Il Viaggio dell'Etereo Risveglio",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Cristalli di Nebulite",
+        "Carne di Xenodonte",
+        "Carne di Balena spaziale",
+        "Alghe Bioluminescenti",
+        "Fibra di Sintetex",
+        "Amido di Stellarion",
+        "Plasma Vitale",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Decostruzione Magnetica Risonante",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Forno Dinamico Inversionale"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica di Mare e Stelle",
+      "ingredients": [
+        "Carne di Kraken",
+        "Carne di Xenodonte",
+        "Carne di Balena spaziale",
+        "Salsa Szechuan",
+        "Lacrime di Andromeda"
+      ],
+      "techniques": [
+        "Marinatura Sotto Zero a Polarit\u00e0 Inversa",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    }
+  ]
+}

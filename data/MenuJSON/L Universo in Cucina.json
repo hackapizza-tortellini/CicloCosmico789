@@ -1,0 +1,231 @@
+{
+  "name": "Restaurant",
+  "chef": "Crina Cosmi",
+  "planet": "Klyntar",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "2"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "2"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "1"
+    },
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "6"
+    },
+    {
+      "name": "Quantica",
+      "acronym": "Q",
+      "level": "11"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "1"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "1"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Galassia di Sapori Interstellari",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Granuli di Nebbia Arcobaleno",
+        "Amido di Stellarion",
+        "Foglie di Nebulosa",
+        "Erba Pipa",
+        "Spore Quantiche",
+        "Radici di Singularit\u00e0",
+        "Baccacedro",
+        "Polvere di Crononite"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa"
+      ]
+    },
+    {
+      "name": "Galassia Aurorale",
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Radici di Gravit\u00e0",
+        "Cristalli di Nebulite",
+        "Carne di Xenodonte",
+        "Carne di Drago",
+        "Foglie di Nebulosa",
+        "Spaghi del Sole",
+        "Uovo di Fenice",
+        "Farina di Nettuno",
+        "Amido di Stellarion",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Cottura a Forno Dinamico Inversionale",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori: L'Eterno Ritorno",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Carne di Balena Spaziale",
+        "Carne di Drago",
+        "Pane di Luce",
+        "Farina di Nettuno",
+        "Estratto di Radici di Singularit\u00e0",
+        "Lacrime di Andromeda",
+        "Sale Temporale",
+        "Cristalli di Memoria",
+        "Fibra di Sintetex"
+      ],
+      "techniques": [
+        "Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Rivelazione del Multiverso",
+      "ingredients": [
+        "Carne di Kraken",
+        "Lacrime di Andromeda",
+        "Sale Temporale",
+        "Pane degli Abissi",
+        "Farina di Nettuno",
+        "Cristalli di Memoria",
+        "Baccacedro",
+        "Pulsazioni Quantistiche"
+      ],
+      "techniques": [
+        "Marinatura a Infusione Gravitazionale",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Pulsazioni Quantistiche",
+        "Affumicatura tramite Big Bang Microcosmico"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica della Rinascita",
+      "ingredients": [
+        "Carne di Mucca",
+        "Uovo di Fenice",
+        "Radici di Singolarit\u00e0",
+        "Granuli di Nebbia Arcobaleno",
+        "Cristalli di Nebulite",
+        "Spaghi del Sole",
+        "Biscotti della Galassia",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Big Bang Microcosmico",
+        "Reazioni d'Antimateria Diluite",
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Idro-cristallizzazione sonora quantistica",
+        "Decostruzione Interdimensionale Lovecraftiana"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori",
+      "ingredients": [
+        "Carne di Mucca",
+        "Carne di Drago",
+        "Radici di Gravit\u00e0",
+        "Nettare di Sirena",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Reazioni d'Antimateria Diluite",
+        "Big Bang Microcosmico"
+      ]
+    },
+    {
+      "name": "Stellar Fusion",
+      "ingredients": [
+        "Farina di Nettuno",
+        "Funghi Orbitali",
+        "Fibra di Sintetex",
+        "Salsa Szechuan",
+        "Shard di Materia Oscura"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura Sottovuoto Antimateria",
+        "Saltare in Padella Realt\u00e0 Energetiche Parallele"
+      ]
+    },
+    {
+      "name": "Portale delle Stelle",
+      "ingredients": [
+        "Carne di Xenodonte",
+        "Funghi dell'Etere",
+        "Biscotti della Galassia",
+        "Frammenti di Supernova",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Microonde Entropiche Sincronizzate",
+        "Decostruzione Atomica a Strati Energetici",
+        "Affumicatura tramite Big Bang Microcosmico",
+        "Fermentazione Quantico Biometrica"
+      ]
+    },
+    {
+      "name": "Sogni di Abisso Cosmico",
+      "ingredients": [
+        "Pane degli Abissi",
+        "Carne di Kraken",
+        "Farina di Nettuno",
+        "Erba Pipa",
+        "Teste di Idra",
+        "Fusilli del Vento",
+        "Uova di Fenice"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Cottura Olografica Quantum Fluttuante",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Microonde Entropiche Sincronizzate",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori: L'Eterno Ritorno",
+      "ingredients": [
+        "Carne di Mucca",
+        "Liane di Plasmodio",
+        "Carne di Drago",
+        "Radici di Singolarit\u00e0",
+        "Foglie di Nebulosa",
+        "Spaghi del Sole",
+        "Uova di Fenice",
+        "Farina di Nettuno",
+        "Amido di Stellarion",
+        "Plasma Vitale",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    }
+  ]
+}

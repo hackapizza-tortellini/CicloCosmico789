@@ -1,0 +1,163 @@
+{
+  "name": "Restaurant",
+  "chef": "Alessandro Zod-Marinetti",
+  "planet": "Krypton",
+  "licenses": [
+    {
+      "name": "Quantistica",
+      "acronym": "Q",
+      "level": "4"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "III"
+    },
+    {
+      "name": "Gravitazionale",
+      "acronym": "G",
+      "level": "II"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "I"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Viaggio Cosmico tra Mare e Stelle",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Kraken",
+        "Teste di Idra",
+        "Lacrime di Andromeda",
+        "Riso di Cassandra",
+        "pane degli Abissi",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Nebulosa di Dragone all'Essenza di Vuoto",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Drago",
+        "Spore Quantiche",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Sinergia elettro-osmotica programmabile"
+      ]
+    },
+    {
+      "name": "Il Viaggio Cosmico di Marinetti",
+      "ingredients": [
+        "Pane degli Abissi",
+        "Polvere di Crononite",
+        "Teste di Idra",
+        "Granuli di Nebbia Arcobaleno",
+        "Alghe Bioluminescenti",
+        "Colonia di Mycoflora"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Piastrella Celestiale di Gnocchi del Crepuscolo con Nebulosa di Riso di Cassandra, Lacrime di Unicorno e Velo di Materia Oscura",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Nebulosa di Riso di Cassandra",
+        "Lacrime di Unicorno",
+        "Materia Oscura",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Sinfonia Celeste di Granuli Arcobaleno e Riso di Cassandra",
+      "ingredients": [
+        "Granuli Arcobaleno",
+        "Riso di Cassandra",
+        "Fusilli del Vento",
+        "Essenza di Speziaria",
+        "Nettare di Sirena"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Cosmos in Tavola",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Carne di Drago",
+        "Cristalli di Nebulite",
+        "Amido di Stellarion",
+        "Nettare di Sirena",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Saltare in Padella Classica"
+      ]
+    },
+    {
+      "name": "Eclissi del Drago nell'Abbraccio del Kraken",
+      "ingredients": [
+        "Carne di Drago",
+        "Carne di Kraken",
+        "Riso di Cassandra",
+        "Colonia di Mycoflora",
+        "Plasma Vitale",
+        "Shard di Materia Oscura"
+      ],
+      "techniques": [
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia Quantica Galattica",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Drago",
+        "Riso di Cassandra",
+        "Salsa Szechuan",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia Galattica Agentica",
+      "ingredients": [
+        "Pane di Luce",
+        "Carne di Balena spaziale",
+        "Carne di Kraken",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Cottura con Microonde Entropiche Sincronizzate"
+      ]
+    }
+  ]
+}

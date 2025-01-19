@@ -1,0 +1,195 @@
+{
+  "name": "Restaurant",
+  "chef": "Alice Quantum-Rossi",
+  "planet": "Namecc",
+  "licenses": [
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "VI+"
+    },
+    {
+      "name": "Quantica",
+      "acronym": "Q",
+      "level": "15"
+    },
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "II"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "I"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "I"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "I"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Risotto dei Multiversi",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Cristalli di Nebulite",
+        "Lacrime di Unicorno",
+        "Sale Temporale",
+        "Spaghi del Sole",
+        "Pane degli Abissi"
+      ],
+      "techniques": [
+        "Cottura Olografica Quantum Fluttuante",
+        "Affumicatura Psionica Sensoriale",
+        "Fermentazione Psionica Energetica",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Padella Classica"
+      ]
+    },
+    {
+      "name": "Panetto di Carne",
+      "ingredients": [
+        "Farina di Nettuno",
+        "Funghi Orbitali",
+        "Pane di Luce",
+        "Carne di Kraken",
+        "Carne di Xenodonte",
+        "Sale Temporale",
+        "Cristalli di Nebulite",
+        "Pane degli Abissi"
+      ],
+      "techniques": [
+        "Affumicatura Temporale Risonante",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Affumicatura Polarizzata a Freddo Iperbarico"
+      ]
+    },
+    {
+      "name": "Cosmos Risotto Reale",
+      "ingredients": [
+        "Amido di Stellarion",
+        "Carne di Kraken",
+        "Pane di Luce",
+        "Funghi Orbitali"
+      ],
+      "techniques": [
+        "Saltare in Padella Realt\u00e0 Energetiche Parallele",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "La Balena incontra la Mandragora",
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Radici di Singolarit\u00e0",
+        "Carne di Balena spaziale",
+        "Muffa Lunare",
+        "Foglie di Mandragora",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Marinatura Temporale Sincronizzata"
+      ]
+    },
+    {
+      "name": "Armonia Cosmica della Fenice",
+      "ingredients": [
+        "Polvere di Stelle",
+        "Carne di mucca",
+        "Uova di Fenice",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Decostruzione Magnetica Risonante",
+        "Decostruzione Interdimensionale Lovecraftiana",
+        "Fermentazione Psionica Energetica",
+        "Cottura Sottovuoto Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Fenice Galattica",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Cristalli di Nebulite",
+        "Alghe Bioluminescenti",
+        "Lattuga Namecciana",
+        "Uova di Fenice",
+        "Muffa Lunare"
+      ],
+      "techniques": [
+        "Marinatura Temporale Sincronizzata",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Congelazione Iperdimensionalmente Stratificata",
+        "Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Rapsodia Quantistica nel Cosmo",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Carne di Xenodonte",
+        "Cristalli di Nebulite",
+        "Fibra di Sintetex",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Pulsazioni Quantistiche",
+        "Marinatura Sotto Zero a Polarit\u00e0 Inversa"
+      ]
+    },
+    {
+      "name": "Galassia di Sapore Quantum",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Alghe Bioluminescenti",
+        "Riso di Cassandra",
+        "Polvere di Crononite",
+        "Biscotti della Galassia",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Idro-Cristallizzazione Sonora Quantistica",
+        "Cottura a Vapore Ecodinamico Bilanciato"
+      ]
+    },
+    {
+      "name": "Tris di Carne con Pane",
+      "ingredients": [
+        "Pane di Luce",
+        "Carne di Xenodonte",
+        "Carne di Kraken",
+        "Fusilli del Vento",
+        "Carne di Balena spaziale",
+        "Lacrime di Unicorno",
+        "Pane degli Abissi",
+        "Cristalli di Memoria"
+      ],
+      "techniques": [
+        "Impasto a Campi Magnetici Dualistici",
+        "Decostruzione Magnetica Risonante",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Cottura Olografica Quantum Fluttuante"
+      ]
+    }
+  ]
+}

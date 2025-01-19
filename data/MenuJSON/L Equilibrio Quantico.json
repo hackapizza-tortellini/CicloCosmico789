@@ -1,0 +1,216 @@
+{
+  "name": "Restaurant",
+  "chef": "Alessandro Quantum",
+  "planet": "Tatooine",
+  "licenses": [
+    {
+      "name": "Quantistica",
+      "acronym": "Q",
+      "level": "11"
+    },
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "6"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "1"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "1"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "1"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "3"
+    },
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "2"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "2"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Sinfonia del Multiverso Nascente",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Carne di Balena spaziale",
+        "Fibra di Sintetex",
+        "Gnocchi del Crepuscolo",
+        "Muffa Lunare",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Affumicatura Temporale Risonante",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Fermentazione Psionica Energetica"
+      ]
+    },
+    {
+      "name": "Antipasto Stellare dell'Eterna Armonia",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Baccacedro",
+        "Fibra di Sintetex",
+        "Teste di Idra",
+        "Pane di Luce",
+        "Farina di Nettuno",
+        "Spore Quantiche",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Cottura Sottovuoto Bioma Sintetico"
+      ]
+    },
+    {
+      "name": "Essenze dell'Infinito",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Baccacedro",
+        "Carne di Kraken",
+        "Funghi Orbitali",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Cottura Olografica Quantum Fluttuante",
+        "Fermentazione Quantico Biometrica",
+        "Affumicatura Temporale Risonante",
+        "Affumicatura tramite Big Bang Microcosmico"
+      ]
+    },
+    {
+      "name": "Etereo Crepuscolare",
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Colonia di Mycoflora",
+        "Lattuga Namecciana",
+        "Gnocchi del Crepuscolo",
+        "Granuli di Nebbia Arcobaleno"
+      ],
+      "techniques": [
+        "Marinatura tramite Reazioni d'Antimateria Diluite",
+        "Decostruzione Magnetica Risonante",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia del Multiverso Calante",
+      "ingredients": [
+        "Shard di Prisma Stellare",
+        "Granuli di Nebbia Arcobaleno",
+        "Fusilli del Vento",
+        "Pane degli Abissi",
+        "Lacrime di Unicorno"
+      ],
+      "techniques": [
+        "Cottura Idrodinamica Autoregolante",
+        "Decostruzione Atomica a Strati Energetici",
+        "Sinergia Elettro-Osmotica Programmabile"
+      ]
+    },
+    {
+      "name": "Sinfonia Quantica dell\u2019Oceano Interstellare",
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Carne di Kraken",
+        "Nettare di Sirena",
+        "Essenza di Vuoto"
+      ],
+      "techniques": [
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Cottura Olografica Quantum Fluttuante",
+        "Marinatura Temporale Sincronizzata",
+        "Fermentazione Psionica Energetica"
+      ]
+    },
+    {
+      "name": "Sinfonia Temporale di Fenice e Xenodonte su Pane degli Abissi con Colata di Plasma Vitale e Polvere di Crononite",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Uova di Fenice",
+        "Carne di Xenodonte",
+        "Pane degli Abissi",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Taglio Dimensionale a Lame Fotofiliche"
+      ]
+    },
+    {
+      "name": "Nebulare Asteroideo con Crepuscolo di Mucca",
+      "ingredients": [
+        "Cristalli di Nebulite",
+        "Foglie di Nebulosa",
+        "Liane di Plasmodio",
+        "Fibra di Sintetex",
+        "Teste di Idra",
+        "Carne di Mucca",
+        "Pane degli Abissi",
+        "Fusilli del Vento",
+        "Gnocchi del Crepuscolo",
+        "Plasma Vitale",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Multirealit\u00e0 Collassante",
+        "Sferificazione Filamentare a Molecole Vibrazionali",
+        "Ebollizione Magneto-Cinetica Pulsante"
+      ]
+    },
+    {
+      "name": "Sinfonia Temporale del Drago",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Radici di Gravit\u00e0",
+        "Baccacedro",
+        "Carne di Drago",
+        "Amido di Stellarion",
+        "Biscotti della Galassia",
+        "Nettare di Sirena"
+      ],
+      "techniques": [
+        "Saltare in Padella Realt\u00e0 Energetiche Parallele",
+        "Bollitura Entropica Sincronizzata"
+      ]
+    },
+    {
+      "name": "Il Viaggio delle Dimensioni Confluenti",
+      "ingredients": [
+        "Polvere di Crononite",
+        "Baccacedro",
+        "Carne di Balena spaziale",
+        "Teste di Idra",
+        "Carne di Mucca",
+        "Riso di Cassandra",
+        "Amido di Stellarion",
+        "Funghi dell\u2019Etere",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Antimateria",
+        "Sferificazione Cromatica Interdimensionale",
+        "Marinatura Sotto Zero a Polarit\u00e0 Inversa"
+      ]
+    }
+  ]
+}

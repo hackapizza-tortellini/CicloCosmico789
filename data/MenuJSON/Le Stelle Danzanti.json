@@ -1,0 +1,168 @@
+{
+  "name": "Restaurant",
+  "chef": "Asteria Nova",
+  "planet": "Tatooine",
+  "licenses": [
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "IV"
+    },
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "III"
+    },
+    {
+      "name": "Gravitazionale",
+      "acronym": "G",
+      "level": "II"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "III"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Rivisitazione del Kraken sotto Molecole",
+      "ingredients": [
+        "Carne di Kraken",
+        "Colonia di Mycoflora",
+        "Spezie Melange",
+        "Fusilli del Vento",
+        "Foglie di Mandragora",
+        "Polvere di Crononite",
+        "Pane di Luce",
+        "Fibra di Sintetex"
+      ],
+      "techniques": [
+        "Grigliatura a Energia Stellare DiV",
+        "Amalgamazione Sintetica Molecolare",
+        "Cottura a vapore termocinetico multiplo",
+        "Cottura a vapore termocinetico multiplo"
+      ]
+    },
+    {
+      "name": "Sinfonia Celestiale",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Muffa Lunare",
+        "Pane degli Abissi",
+        "Uova di Fenice",
+        "Teste di Idra",
+        "Polvere di Stelle",
+        "Petali di Eco",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Grigliatura Psionica Dinamica Ritmica",
+        "Cottura in microonde entropiche sincronizzate",
+        "Cottura in microonde entropiche sincronizzate",
+        "Cottura in microonde entropiche sincronizzate"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica di Sapori",
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Teste di Idra",
+        "Alghe Bioluminescenti",
+        "Biscotti della Galassia",
+        "Lattuga Namecciana",
+        "Shard di Materia Oscura",
+        "Nduja Fritta Tanto",
+        "Nettare di Sirena"
+      ],
+      "techniques": [
+        "Cottura a Vapore Risonante Simbiotico",
+        "Cottura Olografica Quantum Fluttuante"
+      ]
+    },
+    {
+      "name": "Galassia di Sogni Cosmogastronomici",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Shard di Prisma Stellare",
+        "Nettare di Sirena",
+        "Nebbia Arcobaleno",
+        "Baccacedro",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Cottura a Vapore Risonante Simbiotico",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Fermentazione Quantico Biometrica"
+      ]
+    },
+    {
+      "name": "Entropia Eterna",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Teste di Idra",
+        "Fibra di Sintetex",
+        "Biscotti della Galassia",
+        "Polvere di Stelle"
+      ],
+      "techniques": [
+        "Affumicatura a Stratificazione Quantica",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Valzer delle Stelle",
+      "ingredients": [
+        "Carne di Drago",
+        "Spaghi del Sole",
+        "Carne di Kraken",
+        "Pane di Luce",
+        "Uova di Fenice",
+        "Amido di Stellarion",
+        "Polvere di Pulsar",
+        "Spore Quantiche",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Fermentazione Quantico Biometrica",
+        "Affumicatura Psionica Sensoriale"
+      ]
+    },
+    {
+      "name": "Sinfonia di Galassie Riflesse",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Kraken",
+        "Funghi dell\u2019Etere",
+        "Shard di Materia Oscura",
+        "Foglie di Mandragora",
+        "Colonia di Mycoflora",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura a Vapore Risonante Simbiotico",
+        "Sferificazione Cromatica Interdimensionale",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Decostruzione Bio-Fotonica Emotiva"
+      ]
+    },
+    {
+      "name": "Valzer Cosmico di Asteria",
+      "ingredients": [
+        "Carne di Xenodonte",
+        "Pane di Luce",
+        "Nettare di Sirena",
+        "Frammenti di Supernova",
+        "Uova di Fenice",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Cottura a Vapore Risonante Simbiotico",
+        "Affumicatura a Stratificazione Quantica"
+      ]
+    }
+  ]
+}

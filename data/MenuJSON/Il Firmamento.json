@@ -1,0 +1,180 @@
+{
+  "name": "Restaurant",
+  "chef": "Maestro Alessio 'Eterno' Stellaris",
+  "planet": "Ego",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "IV"
+    },
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "IV"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "II"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "II"
+    },
+    {
+      "name": "Quantica",
+      "acronym": "Q",
+      "level": "2"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "I"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "I"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Galassia di Fusilli Sferici alla Risonanza Crononica",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Nettare di Sirena",
+        "Carne di Kraken",
+        "Balena Spaziale",
+        "Salsa Szechuan",
+        "Farina di Nettuno",
+        "Polvere di Crononite",
+        "Fibra di Sintetex"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Immersione in Salsa Szechuan",
+        "Impasto a Campi Magnetici Dualistici",
+        "Luce II",
+        "Soffiare Polvere di Crononite"
+      ]
+    },
+    {
+      "name": "Galassia Rinascente",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Vero Ghiaccio",
+        "Muffa Lunare",
+        "Carne di Drago",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Uovo di Fenice",
+        "Bollitura Entropica Sincronizzata",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Bollitura Entropica Sincronizzata"
+      ]
+    },
+    {
+      "name": "Mandragora e Radici",
+      "ingredients": [
+        "Polvere di Stelle",
+        "Radici di Gravit\u00e0",
+        "Foglie di Mandragora",
+        "Lacrime di Unicorno",
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Bioma Sintetico",
+        "Cottura Sottovuoto Pulsar Magnetica"
+      ]
+    },
+    {
+      "name": "Galaxia Rinasciata",
+      "ingredients": [
+        "Uova di Fenice",
+        "Lacrime di Unicorno",
+        "Spezie Melange",
+        "Baccacedro",
+        "Surgelamento Antimaterico a Risonanza Inversa",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Modellatura Onirica Tetrazionale",
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Cottura Sottovuoto Pulsar Magnetica"
+      ]
+    },
+    {
+      "name": "Cosmic Harmony",
+      "ingredients": [
+        "Foglie di Mandragora",
+        "Radici di Gravit\u00e0",
+        "Lacrime di Unicorno",
+        "Lattuga Namecciana",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Decostruzione Atomica a Strati Energetici",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Affumicatura Psionica Sensoriale"
+      ]
+    },
+    {
+      "name": "Nebulosa di Sapori Quantici",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Funghi Orbitali",
+        "Essenza di Vuoto",
+        "Radici di Singolarit\u00e0",
+        "Cristalli di Nebulite"
+      ],
+      "techniques": [
+        "Bollitura Infrasonica Armonizzata",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Decostruzione Magnetica Risonante"
+      ]
+    },
+    {
+      "name": "Galassia in Tavola: Sinfonia dei Sensi",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Gnocchi del Crepuscolo",
+        "Muffa Lunare",
+        "Baccacedro",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Cottura Sottovuoto Pulsar Magnetica"
+      ]
+    },
+    {
+      "name": "Galassie alla Spirale di Vento con Sfera di Ghiaccio Eterno",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Farina di Nettuno",
+        "Vero Ghiaccio",
+        "Radici di Gravit\u00e0",
+        "Lacrime di Andromeda",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Modellazione Onirica Tetrazonale",
+        "Affumicatura Polarizzata a Freddo Iperbarico"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "name": "Restaurant",
+  "chef": "Aurora Celestini",
+  "planet": "Ego",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "III"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    },
+    {
+      "name": "Quantistica",
+      "acronym": "Q",
+      "level": "II"
+    },
+    {
+      "name": "Livello/Grado Sviluppo Tecnologico",
+      "acronym": "LTK",
+      "level": "2"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Sinfonia Cosmica: la Vendetta Fantasma",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Essenza di Vuoto",
+        "Spaghi del Sole",
+        "Colonia di Mycoflora",
+        "Biscotti della Galassia",
+        "Carne di Balena Spaziale",
+        "Pane di Luce",
+        "Granuli di Nebbia Arcobaleno",
+        "Carne di Kraken",
+        "Teste di Idra",
+        "Erba Pipa",
+        "Frammenti di Supernova"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Quantico Biometrica",
+        "Cottura a vapore termocinetica multipla",
+        "Affumicatura a stratificazione quantica",
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Manipolazione Gravitazionale mirata",
+        "Cottura Classica"
+      ]
+    },
+    {
+      "name": "Antipasto Celestiale",
+      "ingredients": [
+        "Carne di Balena Spaziale",
+        "Pane di Luce",
+        "Granuli di Nebbia Arcobaleno",
+        "Carne di Kraken",
+        "Teste di Idra",
+        "Fusilli del Vento",
+        "Frammenti di Supernova",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Fermentazione Quantico Biometrica",
+        "Amalgamazione Sintetica Molecolare",
+        "Cottura Classica",
+        "Manipolazione Gravitazionale mirata"
+      ]
+    },
+    {
+      "name": "Sinfonia Cosmica: il Ritorno dell'Imperatore",
+      "ingredients": [
+        "Carne di Balena spaziale",
+        "Carne di Mucca",
+        "Spore Quantiche",
+        "Polvere di Crononite",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Amalgamazione Sintetica Molecolare",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Evanescenza Cosmica",
+      "ingredients": [
+        "Fusilli del Vento",
+        "Shard di Materia Oscura",
+        "Foglie di Mandragora",
+        "Fibra di Sintetex",
+        "Uova di Fenice",
+        "Plasma Vitale",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Amalgamazione Sintetica Molecolare",
+        "Fermentazione Quantico Biometrica",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura a Vapore Termocinetica Multipla"
+      ]
+    },
+    {
+      "name": "Galassia nel Piatto: Sinfonia Universale di Aromi e Sapori",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Sintetex",
+        "Carne di Drago",
+        "Carne di Xenodonte",
+        "Salsa Szechuan piccante e dolce",
+        "Spaghi del Sole",
+        "Muffa Lunare",
+        "Biscotti della Galassia",
+        "Vero Ghiaccio"
+      ],
+      "techniques": [
+        "Affumicatura a Stratificazione Quantica",
+        "Bollitura Infrasonica Armonizzata",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura Classica"
+      ]
+    },
+    {
+      "name": "Sinfonia Galattica di Sapori con Sorpresa di Drago Fiammante",
+      "ingredients": [
+        "Lattuga Namecciana",
+        "Carne di Balena spaziale",
+        "Teste di Idra",
+        "Fibra di Sintetex",
+        "Funghi Orbitali",
+        "Nduja Fritta Tanto",
+        "Verdure",
+        "Erba Pipa"
+      ],
+      "techniques": [
+        "Marinatura Psionica",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Microonde Entropiche Sincronizzate",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Manipolazione Gravitazionale mirata",
+        "Cottura Classica",
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori di Aurora",
+      "ingredients": [
+        "Carne di Mucca",
+        "Fibra di Sintetex",
+        "Uova di Fenice",
+        "Funghi dell\u2019Etere",
+        "Amido di Stellarion",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Affumicatura a Stratificazione Quantica",
+        "Fermentazione Quantico Biometrica",
+        "Impasto Gravitazionale Vorticoso"
+      ]
+    },
+    {
+      "name": "Galassia di Sapore Interdimensionale",
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Carne di Mucca",
+        "Carne di Balena Spaziale",
+        "Riso di Cassandra",
+        "Erba Pipa",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Marinatura Psionica",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura Classica",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    },
+    {
+      "name": "Galassia di Sapori: Sinfonia Transdimensionale",
+      "ingredients": [
+        "Granuli di Nebbia Arcobaleno",
+        "Pane degli Abissi",
+        "Spaghi del Sole",
+        "Muffa Lunare",
+        "Frammenti di Supernova"
+      ],
+      "techniques": [
+        "Manipolazione Gravitazionale mirata",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Fermentazione Quantico Biometrica",
+        "Cottura a Vapore Ecodinamico Bilanciato",
+        "Cottura Classica"
+      ]
+    },
+    {
+      "name": "Antipasto di Cristalli di Memoria in Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+      "ingredients": [
+        "Cristalli di Memoria",
+        "Carne di Mucca",
+        "Carne di Balena Spaziale",
+        "Riso di Cassandra",
+        "Erba Pipa",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Cottura a Vapore con Flusso di Particelle Isoarmoniche",
+        "Marinatura Psionica",
+        "Cottura con Microonde Entropiche Sincronizzate",
+        "Cottura a Vapore Termocinetica Multipla",
+        "Cottura Classica",
+        "Taglio a Risonanza Sonica Rigenerativa"
+      ]
+    }
+  ]
+}

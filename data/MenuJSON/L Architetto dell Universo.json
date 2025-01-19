@@ -1,0 +1,179 @@
+{
+  "name": "Restaurant",
+  "chef": "Alessandra Tempesti",
+  "planet": "Klyntar",
+  "licenses": [
+    {
+      "name": "LTK",
+      "acronym": "LTK",
+      "level": "V"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "III"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "II"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Galassia Riflessa",
+      "ingredients": [
+        "Pane degli Abissi",
+        "Foglie di Nebulosa",
+        "Carne di Balena spaziale",
+        "Colonia di Mycoflora",
+        "Uova di Fenice",
+        "Lacrime di Unicorno",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Affettamento a Pulsazioni Quantistiche",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Enigma Celeste",
+      "ingredients": [
+        "Carne di drago",
+        "Gnocchi del Crepuscolo",
+        "Spore Quantiche",
+        "Reduzione di Vero Ghiaccio",
+        "Pane di Luce"
+      ],
+      "techniques": [
+        "Cottura Olografica Quantum Fluttuante"
+      ]
+    },
+    {
+      "name": "Galassia d'Aromi Perduti",
+      "ingredients": [
+        "Spaghi del Sole",
+        "Pane di Luce",
+        "Erba Pipa",
+        "Lacrime di Unicorno",
+        "Cristalli di Nebulite"
+      ],
+      "techniques": [
+        "Bollitura Entropica Sincronizzata",
+        "Congelamento Bio-Luminiscente Sincronico",
+        "Decostruzione Ancestrale"
+      ]
+    },
+    {
+      "name": "Galassia a Tavola: Sinfonia di Tempeste Cosmiche",
+      "ingredients": [
+        "Carne di Xenodonte",
+        "Teste di Idra",
+        "Funghi Orbitali",
+        "Liane di Plasmodio",
+        "Foglie di Nebulosa",
+        "Essenza di Tachioni"
+      ],
+      "techniques": [
+        "Grigliatura Elettro-Molecolare a Spaziatura Variabile",
+        "Cottura al Forno con Paradosso Temporale Cronospeculare",
+        "Cristallizzazione Temporale Reversiva"
+      ]
+    },
+    {
+      "name": "Portale Astrale di Sapori",
+      "ingredients": [
+        "Carne di Kraken",
+        "Carne di Balena spaziale",
+        "Nebulite",
+        "Pane di Luce",
+        "Nettare di Sirena",
+        "Nduja Fritta Tanto"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare"
+      ]
+    },
+    {
+      "name": "Cosmic Harmony Risotto",
+      "ingredients": [
+        "Riso di Cassandra",
+        "Polvere di Pulsar",
+        "Pane di Luce",
+        "Lacrime di Unicorno",
+        "Spezie Melange"
+      ],
+      "techniques": [
+        "Cottura Sottovuoto Frugale Energeticamente Negativa",
+        "Bollitura Termografica a Rotazione Veloce",
+        "Cottura a Vapore Termocinetica Multipla"
+      ]
+    },
+    {
+      "name": "Galassia di Celestial Delight",
+      "ingredients": [
+        "Vero Ghiaccio",
+        "Uova di Fenice",
+        "Radici di Singolarit\u00e0",
+        "Colonia di Mycoflora",
+        "Essenza di Tachioni",
+        "Farina di Nettuno"
+      ],
+      "techniques": [
+        "Impasto Gravitazionale Vorticoso",
+        "Cottura a Vapore Termocinetica Multipla"
+      ]
+    },
+    {
+      "name": "Pioggia Calante dell'Universo",
+      "ingredients": [
+        "Carne di balena spaziale",
+        "Spaghi del Sole",
+        "shard di materia oscura",
+        "plasma vitale",
+        "foglie di mandragora",
+        "petali di eco",
+        "buccia del baccacedro"
+      ],
+      "techniques": [
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Bollitura infrasonica armonizzata"
+      ]
+    },
+    {
+      "name": "Creazione Celestiale: L'Alba del Cosmo",
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Carne di Balena spaziale",
+        "Spaghi del Sole",
+        "Polvere di Pulsar",
+        "Muffa Lunare",
+        "Sale Temporale"
+      ],
+      "techniques": [
+        "Fermentazione Quantico Biometrica",
+        "Taglio a Risonanza Sonica Rigenerativa",
+        "Congelamento Bio-Luminiscente Sincronico"
+      ]
+    },
+    {
+      "name": "Cosmic Rhapsody",
+      "ingredients": [
+        "Carne di Drago",
+        "Carne di Kraken",
+        "Funghi dell\u2019Etere",
+        "Amido di Stellarion",
+        "Polvere di Pulsar"
+      ],
+      "techniques": [
+        "Cottura a Vapore Termocinetica Multipla",
+        "Affettamento a Pulsazioni Quantistiche"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "name": "Restaurant",
+  "chef": "Alessandra \"Memory Weaver\" Luminetti",
+  "planet": "Arrakis",
+  "licenses": [
+    {
+      "name": "Psionica",
+      "acronym": "P",
+      "level": "IV"
+    },
+    {
+      "name": "Gravitazione",
+      "acronym": "G",
+      "level": "I"
+    },
+    {
+      "name": "Antimateria",
+      "acronym": "e+",
+      "level": "I"
+    },
+    {
+      "name": "Magnetica",
+      "acronym": "Mx",
+      "level": "I"
+    },
+    {
+      "name": "Temporale",
+      "acronym": "t",
+      "level": "I"
+    },
+    {
+      "name": "Luce",
+      "acronym": "c",
+      "level": "III"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Sfere del Ricordo Astrale",
+      "ingredients": [
+        "Carne di Drago",
+        "Liane di Plasmodio",
+        "Pane degli Abissi",
+        "Funghi dell'Etere",
+        "Polvere di Pulsar",
+        "Salsa Szechuan"
+      ],
+      "techniques": [
+        "Marinatura sotto zero a polarit\u00e0 inversa",
+        "Bollitura termografica a rotazione veloce",
+        "Flusso di particelle isoarmoniche"
+      ]
+    },
+    {
+      "name": "Sinfonia Celestiale dei Ricordi",
+      "ingredients": [
+        "Biscotti della Galassia",
+        "Farina di Nettuno",
+        "Teste di Idra",
+        "Colonia di Mycoflora",
+        "Spaghi del Sole",
+        "Muffa Lunare",
+        "Salsa Szechuan",
+        "Shard di Materia Oscura"
+      ],
+      "techniques": [
+        "Impasto a Campi Magnetici Dualistici",
+        "Cottura a Forno Dinamico Inversionale",
+        "Microonde Entropiche Sincronizzate"
+      ]
+    },
+    {
+      "name": "Crepuscolo della Galassia",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Pane di Luce",
+        "Biscotti della Galassia",
+        "Spore Quantiche",
+        "Petali di Eco"
+      ],
+      "techniques": [
+        "Grigliatura Eletro-Molecolare a Spaziatura Variabile",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Viaggio dei Ricordi Stellari",
+      "ingredients": [
+        "Gnocchi del Crepuscolo",
+        "Liane di Plasmodio",
+        "Granuli di Nebbia Arcobaleno",
+        "Pane degli Abissi",
+        "Nduja Fritta Tanto",
+        "Shard di Prisma Stellare",
+        "Plasma Vitale"
+      ],
+      "techniques": [
+        "Bollitura Termografica a Rotazione Veloce",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Marinatura sotto Zero a Polarit\u00e0 Inversa",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Il Simposio degli Infiniti Ricordi",
+      "ingredients": [
+        "Pane degli Abissi",
+        "Carne di Balena spaziale",
+        "Carne di Xenodonte",
+        "Lacrime di Unicorno",
+        "Cristalli di Nebulite",
+        "Uova di Fenice",
+        "Granuli di Nebbia Arcobaleno",
+        "Biscotti della Galassia"
+      ],
+      "techniques": [
+        "Microonde Entropiche Sincronizzate",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Rapsodia dei Ricordi Celesti",
+      "ingredients": [
+        "Farina di Nettuno",
+        "Carne di Xenodonte",
+        "Carne di Mucca",
+        "Carne di Drago",
+        "Lacrime di Andromeda",
+        "Foglie di Nebulosa",
+        "Essenza di Speziaria"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Sinfonia del Cosmo",
+      "ingredients": [
+        "Liane di Plasmodio",
+        "Funghi Orbitali",
+        "Fibra di Sintetex",
+        "Sale Temporale",
+        "Foglie di Nebulosa"
+      ],
+      "techniques": [
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Sinergia Elettro-Osmotica Programmabile",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    },
+    {
+      "name": "Sinfonia dei Ricordi Celesti",
+      "ingredients": [
+        "Carne di balena spaziale",
+        "Granuli di Nebbia Arcobaleno",
+        "Impasto gravitazionale vorticoso",
+        "Polvere di Crononite",
+        "Cristalli di Sale Temporale"
+      ],
+      "techniques": [
+        "Spore Quantiche",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Cryo-Tessitura Energetica Polarizzata"
+      ]
+    },
+    {
+      "name": "Il Ricordo del Fuoco Celeste",
+      "ingredients": [
+        "Farina di Nettuno",
+        "Carne di Drago",
+        "Lattuga Namecciana",
+        "Salsa Szechuan",
+        "Uova di Fenice",
+        "Spaghi del Sole",
+        "Shard di Materia Oscura"
+      ],
+      "techniques": [
+        "Amalgamazione Sintetica Molecolare",
+        "Ebollizione Magneto-Cinetica Pulsante",
+        "Cryo-Tessitura Energetica Polarizzata",
+        "Bollitura Termografica a Rotazione Veloce"
+      ]
+    }
+  ]
+}
