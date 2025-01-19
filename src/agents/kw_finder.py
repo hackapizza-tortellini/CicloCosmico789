@@ -18,8 +18,11 @@ class KeywordsFinder(Agent):
             "Questa è la domanda dell'utente: {query}\n\n"
             "Il tuo compito è estrarre ingredienti o tecniche o chef o pianeti o ristoranti citati nella domanda"
             "Se disponibili."
-            "Per quanto riguarda gli ingredienti o le tecniche, devi estrarre solo quelli che sono devono essere presenti nei piatti da trovare"
+            "Per quanto riguarda gli ingredienti o le tecniche, devi estrarre solo quelli che sono devono essere presenti nei piatti da trovare."
+            "Escludi gli ingredienti o le tecniche che non devono essere presenti nei piatti da trovare."
             "Se la domanda é 'quali piatti sono a base di pizza ma senza il pomodoro?' devi estrarre solo 'pizza'"
+            "Se gli ingredienti o le tecniche contengono più parole, prendi solo le parole più significative."
+            "Esempio: se l'ingrediente è 'Sashimi di Magikarp' prendi solo 'Sashimi'"
         )
 
         chain = prompt | self.model.with_structured_output(Keywords)
