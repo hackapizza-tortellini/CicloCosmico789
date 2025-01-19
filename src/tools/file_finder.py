@@ -103,22 +103,24 @@ def search_pdfs_with_filters(state: StateGraph, folder_path: str = 'data/MenuJSO
             
             all_included = False
             for recipe in data['recipes']:
-                if all(keyword in str(recipe) for keyword in state['ingredients_or_techniques']):
-                    all_included = True
-                    break
+                if state['ingredients_or_techniques']:
+                    if all(keyword in str(recipe) for keyword in state['ingredients_or_techniques']):
+                        all_included = True
+                        break
 
             if all_included:
                 matching_files[filename.split('.')[0]] = True
                 
                 # For each included keyword, find recipes containing it and add to context
+                all_contexts.append('ristorante: ' + str(filename.split('.')[0]))
+                all_contexts.append('chef: ' + str(data['chef']))
+                all_contexts.append('pianeta: ' + str(data['planet']))
+                all_contexts.append('distanza: ' + str(add_distance(data['planet'])))
                 for recipe in data['recipes']:
                     recipe_str = str(recipe)
                     for keyword in state['ingredients_or_techniques']:
                         if keyword in recipe_str:
-                            all_contexts.append(data['name'])
-                            all_contexts.append(data['chef'])
-                            all_contexts.append(data['planet'])
-                            all_contexts.append(add_distance(data['planet']))
+                            
                             all_contexts.append(recipe)
 
     return {
