@@ -51,17 +51,17 @@ class ReceiptFinder(Agent):
         
         return RecipesMapping(recipes=recipes_list)
     
-        prompt = PromptTemplate.from_template(
-            "Questa è la lista di ricette: {receipts}\n\n"
-            "Il tuo compito è estrarre gli id delle ricette insieme al nome della ricetta, in base al mapping."
-            "Se non trovi nessuna ricetta nel mapping, restituisci array vuoto!"
-            "Se una ricetta non è presente nel mapping, escludila dalla lista!"
-            "Non ripeti gli stessi id!"
-            "Qui il mapping\n\n<mapping>\n{mapping}\n</mapping>"
-        )
+        # prompt = PromptTemplate.from_template(
+        #     "Questa è la lista di ricette: {receipts}\n\n"
+        #     "Il tuo compito è estrarre gli id delle ricette insieme al nome della ricetta, in base al mapping."
+        #     "Se non trovi nessuna ricetta nel mapping, restituisci array vuoto!"
+        #     "Se una ricetta non è presente nel mapping, escludila dalla lista!"
+        #     "Non ripeti gli stessi id!"
+        #     "Qui il mapping\n\n<mapping>\n{mapping}\n</mapping>"
+        # )
 
-        chain = prompt | self.model.with_structured_output(RecipesMapping)
+        # chain = prompt | self.model.with_structured_output(RecipesMapping)
 
-        return chain.invoke({"receipts": receipts, "mapping": mapping})
+        # return chain.invoke({"receipts": receipts, "mapping": mapping})
     
 

@@ -115,6 +115,7 @@ def search_pdfs_with_filters(state: StateGraph, folder_path: str = 'data/MenuJSO
                 all_contexts.append('<ristorante><name>\n' + str(filename.split('.')[0]) + '\n</name>')
                 all_contexts.append('<chef>\n' + str(data['chef']) + '\n</chef>')
                 all_contexts.append('<pianeta>\n' + str(data['planet']) + '\n</pianeta>')
+                all_contexts.append('<licences>\n' + str(data['licenses']) + '\n</licenses>')
                 # all_contexts.append('distanza: ' + str(add_distance(data['planet'])))
                 for recipe in data['recipes']:
                     recipe_str = str(recipe)
